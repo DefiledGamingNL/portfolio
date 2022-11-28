@@ -51,6 +51,18 @@ html {
   width: 15rem;
 }
 
+.copyright {
+  background-color: var(--superSaiyanBlue);
+  padding: 1.35rem;
+  line-height: 1.35rem;
+  color: #b3b3b3;
+  font-size: 1.2rem;
+}
+
+span a {
+  text-decoration: none;
+  color: var(--skinColorDark);
+}
 .divider-custom {
   align-items: center;
   display: flex;
